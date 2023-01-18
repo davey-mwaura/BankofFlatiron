@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2019-12-01",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": 2,
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": 8000
+    },
+    {
+      "date": "2023-01-07",
+      "description": "Loan to Oscorp",
+      "category": "Expense",
+      "amount": -5000,
+      "id": 3
+    }
+  ]
+}
