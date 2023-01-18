@@ -1,4 +1,4 @@
-### Bank of Flariton
+# Bank of Flariton
 
 As a user, I should be able to:
 
